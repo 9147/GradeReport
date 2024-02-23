@@ -1,4 +1,4 @@
-name: CI
+name: gradebuild
 on:
   push:
     branches: [ main ]
